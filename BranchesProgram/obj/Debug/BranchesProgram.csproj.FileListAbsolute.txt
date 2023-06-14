@@ -1,0 +1,6 @@
+c:\users\thor\documents\visual studio 2017\Projects\BranchesProgram\BranchesProgram\bin\Debug\BranchesProgram.exe.config
+c:\users\thor\documents\visual studio 2017\Projects\BranchesProgram\BranchesProgram\bin\Debug\BranchesProgram.exe
+c:\users\thor\documents\visual studio 2017\Projects\BranchesProgram\BranchesProgram\bin\Debug\BranchesProgram.pdb
+c:\users\thor\documents\visual studio 2017\Projects\BranchesProgram\BranchesProgram\obj\Debug\BranchesProgram.csprojResolveAssemblyReference.cache
+c:\users\thor\documents\visual studio 2017\Projects\BranchesProgram\BranchesProgram\obj\Debug\BranchesProgram.exe
+c:\users\thor\documents\visual studio 2017\Projects\BranchesProgram\BranchesProgram\obj\Debug\BranchesProgram.pdb
